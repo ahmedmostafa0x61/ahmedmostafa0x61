@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning IBM Data Science Professional Certificate
 - 💞️ I’m looking to collaborate on Applying Data science tools 
 - 📫 How to reach me ...
-  LinkedIn: https://www.linkedin.com/in/ahmed-mostafa-227317140/
+  LinkedIn: https://www.linkedin.com/in/ahmed-mostafa-227317140/  
   FB:    https://www.facebook.com/ahmed.mostafa.sro
   Gmail: a.mostafa.0x61@gmail.com
 
