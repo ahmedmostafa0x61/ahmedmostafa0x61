@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed Mostafa, Fresh Graduate Software Engineer
-- 👀 I’m interested in Data Science and Machine learning
+- 👀 I’m an Ai Engineer Graduate from NTI 
 - 🌱 I’m currently learning IBM Data Science Professional Certificate
 - 💞️ I’m looking to collaborate on Applying Data science tools 
 - 📫 How to reach me ...
