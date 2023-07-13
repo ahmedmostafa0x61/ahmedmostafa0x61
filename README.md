@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed Mostafa, Fresh Graduate Computer Engineer
-- 👀 I’m currently an NLP Engineer intern at RDI 
+- 👀 I’m an NLP Engineer intern at RDI, Working at NER Model for Arabic text tagging.
 - 🌱 I’m an Ai Engineer Graduate from NTI 
 - 📫 How to reach me ...
   LinkedIn: https://www.linkedin.com/in/ahmed-mostafa-227317140/  
