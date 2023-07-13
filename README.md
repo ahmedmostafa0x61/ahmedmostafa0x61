@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Ahmed Mostafa, Fresh Graduate Software Engineer
-- 👀 I’m an Ai Engineer Graduate from NTI 
-- 🌱 I’m currently learning IBM Data Science Professional Certificate
-- 💞️ I’m looking to collaborate on Applying Data science tools 
+- 👋 Hi, I’m Ahmed Mostafa, Fresh Graduate Computer Engineer
+- 👀 I’m currently an NLP Engineer intern at RDI 
+- 🌱 I’m an Ai Engineer Graduate from NTI 
 - 📫 How to reach me ...
   LinkedIn: https://www.linkedin.com/in/ahmed-mostafa-227317140/  
   FB:    https://www.facebook.com/ahmed.mostafa.sro
