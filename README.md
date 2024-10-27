@@ -2,7 +2,7 @@
 - 👀 I’m an NLP Engineer intern at RDI, Working at NER Model for Arabic text tagging.
 - 🌱 I’m an Ai Engineer Graduate from NTI 
 - 📫 How to reach me ...
-  LinkedIn: [https://www.linkedin.com/in/ahmed-mostafa-227317140/](https://www.linkedin.com/in/ahmedmostafakh/)  
+  LinkedIn: [https://www.linkedin.com/in/ahmedmostafakh/](https://www.linkedin.com/in/ahmedmostafakh/)  
   Gmail: ahmed.mostafa.tu@gmail.com
 
 <!---
